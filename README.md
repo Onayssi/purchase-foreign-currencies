@@ -69,5 +69,5 @@ The SMTP authentication configuration must be configured in order ro send an ema
 ```
 
 #Copyright
-Copyright (c) 2010 - 2016 Mouhamad Ounayssi.<br>
+Copyright (c) 2010 - 2017 Mouhamad Ounayssi.<br>
 Blog: https://www.mouhamadounayssi.wordpress.com.
