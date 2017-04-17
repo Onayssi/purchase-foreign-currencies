@@ -68,6 +68,6 @@ The SMTP authentication configuration must be configured in order ro send an ema
   'smtp_port' => '26', // smtp port [25 or 26]
 ```
 
-#Copyright
+# Copyright
 Copyright (c) 2010 - 2017 Mouhamad Ounayssi.<br>
 Blog: https://www.mouhamadounayssi.wordpress.com.
