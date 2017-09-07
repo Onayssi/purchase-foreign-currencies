@@ -55,7 +55,7 @@ Using a foreign exchange API to get exchange rates, the default values of the ex
 You can use jsonrates API (http://jsonrates.com/docs/) to retrieve the rates. Register for a free API key. Any Other API would be fine (e.g: Yahoo Finance API). Suggestion: use an API from Google Finance.<br>
 **Important**: The jsonrates documentation has been deprecated and is no longer valid. For detailed reference about API integration, usage guides and language examples please visit: https://currencylayer.com/documentation
 
-#Installation
+# Installation
 Download the source package as a zip format, extract the web files and put all into the server root, change the configuration of the database (host credentials and database name) from the configuration script (application/config/db), use the sql file included (pfcurrencies.sql) to create the database using MySQL command tools or phpmyadmin interface  and set the server root to be pointed to the app main page (application/web).
 The SMTP authentication configuration must be configured in order ro send an email notification concerning an order set, providing an admin email, host, username, password and port, that can be configured from the params configuration script (application/config/params). It's included also, the API Key used for the currencies conversion from 'jsonrates' API.
 
