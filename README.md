@@ -1,5 +1,5 @@
 # purchase-foreign-currencies
-A web application that allow a user to purchase foreign currencies, using Yii Framework.
+A web application that allows users to purchase foreign currencies, using Yii Framework.
 # Synopsis:
 The app display the available currencies for selection by the user and has inputs where that user can enter the amount of foreign currency they wish to purchase or the amount of ZAR currency they wish to pay.
 Once the user has entered either amount and selected the foreign currency the necessary calculation needs to be done that will display the amount they need to pay in ZAR.
@@ -70,4 +70,4 @@ The SMTP authentication configuration must be configured in order ro send an ema
 
 # Copyright
 Copyright (c) 2010 - 2017 Mouhamad Ounayssi.<br>
-Blog: https://www.mouhamadounayssi.wordpress.com.
+Blog: https://www.mouhamadonayssi.wordpress.com.
